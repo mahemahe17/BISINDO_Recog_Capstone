@@ -1,5 +1,5 @@
 opencv-contrib-python==4.11.0.86
 opencv-python==4.11.0.86
-mediapipe==0.10.21
+mediapipe
 tensorflow==2.18.0
 pyttsx3==2.98

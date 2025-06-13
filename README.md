@@ -7,4 +7,4 @@ cd BISINDO_Recog_Capstone
 pip install -r requirements.txt
 
 # Jalankan inference
-Bukan file inference_BISINDO.ipynb di Visual Studio Code lalu jalankan
+Bukan file inference_BISINDO.ipynb di Jupyter Notebook lalu jalankan
